@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project simulates and analyzes an A/B test to evaluate the impact of a new Uber Eats subscription feature on user conversion. It generates synthetic user data, performs a statistical hypothesis test (z-test), and visualizes the outcome.
 
-## 🎯 Objective
+## 🎯 Objective 
 Determine whether offering a subscription feature increases user conversion rates by running a simulated A/B test and assessing statistical significance.
 
 ## 🛠️ Features
@@ -31,6 +31,7 @@ Conversion Rates:
 control      0.100
 Treatment    0.130
 Z-Score: 2.0851, P-Value: 0.0185
+
 ```
 > A p-value of 0.0185 indicates the treatment effect is statistically significant at a 5% level.
 
@@ -42,6 +43,7 @@ Z-Score: 2.0851, P-Value: 0.0185
 - Hypothesis Testing (z-test)
 - Data Simulation
 - Python (pandas, numpy, scipy, matplotlib)
+  
 
 ## 🚀 How to Run
 1. Clone the repository
@@ -53,4 +55,3 @@ Uber Eats may run A/B tests like this to determine the impact of a feature such 
 
 ---
 
-Made by Sourav Sreelan · [LinkedIn](https://www.linkedin.com/in/souravsreelan/) 

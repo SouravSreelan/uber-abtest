@@ -1,9 +1,9 @@
 # Uber Eats Subscription A/B Test Simulator
 
-## 📌 Overview
+## Overview
 This project simulates and analyzes an A/B test to evaluate the impact of a new Uber Eats subscription feature on user conversion. It generates synthetic user data, performs a statistical hypothesis test (z-test), and visualizes the outcome.
 
-## 🎯 Objective     
+## Objective     
 Determine whether offering a subscription feature increases user conversion rates by running a simulated A/B test and assessing statistical significance.
 
 ## 🛠️ Features. 

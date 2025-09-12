@@ -6,14 +6,14 @@ This project simulates and analyzes an A/B test to evaluate the impact of a new 
 ## Objective     
 Determine whether offering a subscription feature increases user conversion rates by running a simulated A/B test and assessing statistical significance.
 
-## 🛠️ Features. 
+## Features. 
 - Simulates 2,000 users split into control and treatment groups
 - Assigns different conversion probabilities (10% for control, 13% for treatment)
 - Computes conversion rates
 - Conducts a z-test for difference in proportions
 - Visualizes results using matplotlib
 
-## 🧪 Methodology. 
+## Methodology. 
 1. **Data Simulation**:
    - 2,000 users randomly assigned to control/treatment groups
    - Binary conversion outcome simulated using binomial distribution
@@ -25,7 +25,7 @@ Determine whether offering a subscription feature increases user conversion rate
 3. **Visualization**:
    - Bar chart showing conversion rate per group
 
-## 📈 Sample Output
+## Sample Output
 ```
 Conversion Rates:
 control      0.100
